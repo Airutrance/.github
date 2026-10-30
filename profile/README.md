@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/Airutrance/.github/main/airutrance.png" alt="Airutrance" width="240">
+  <img src="https://raw.githubusercontent.com/Airutrance/.github/main/airutrance.png" alt="Airutrance" width="160">
 </p>
 
 **Independent tools for making electronic music.**
